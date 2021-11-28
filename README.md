@@ -26,7 +26,13 @@ The following four dataframes were created forom the raw data from Amazons video
 
 ![](Resources/vine.PNG)
 
-## Summary
 ![](Resources/total_reviews_percentage.PNG)
+
+The above table reveals the following:
+-There are a toal of 94 reviews from Vine members and a total of 40,471 reviews from non-Vine reviews, showing a huge disparity between the two groups in terms of numbers of reviews.
+- Of the 94 Vine reviews, 48 were rated as five stars whereas 15,663 of the non-Vine reviews were rated as five stars
+- Approximately 51% of the Vine reviews were five stars in comparison of around 38.7% of non-Vine reviews being rated as five stars.
+
+## Summary
 
 From the analysis, we can see that 51% of the reviews through the Vine program were ranked as five stars in comparison to the five star reviews from non-vine users being at 39%. This certainly suggests a somewhat of a bias from Vine members as they received the products directly from the company and would most likely to continue to be in the comapnys good graces to receive further products from them down the line. A recommended additional analysis would be the descriptive statistics of these reviews i.e. finding the mean, median and mode for the five star reviews between Vine and non-Vine reviews.
