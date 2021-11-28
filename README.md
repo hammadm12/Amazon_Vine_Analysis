@@ -25,3 +25,8 @@ The following four dataframes were created forom the raw data from Amazons video
 4. Vine_df
 
 ![](Resources/vine.PNG)
+
+## Summary
+![](Resources/total_reviews_percentage)
+
+From the analysis, we can see that 51% of the reviews through the Vine program were ranked as five stars in comparison to the five star reviews from non-vine users being at 39%. This certainly suggests a somewhat of a bias from Vine members as they received the products directly from the company and would most likely to continue to be in the comapnys good graces to receive further products from them down the line. A recommended additional analysis would be the descriptive statistics of these reviews i.e. finding the mean, median and mode for the five star reviews between Vine and non-Vine reviews.
